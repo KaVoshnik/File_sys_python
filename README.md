@@ -16,3 +16,9 @@
 - If not convert, try convert to float(). If convert, write to Float output file.
 - If not convert, write to String output file.
 - Close all files.
+
+# For run code use
+python Main.py input_file.txt
+- Can add flags:
+-p Name_file
+-o Path_to_save
