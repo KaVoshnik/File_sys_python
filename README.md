@@ -7,6 +7,8 @@
 - User can use Flags:
 -o (Path the save result)
 -p (Name output files).
+-s (To check statistic)
+-a (Append mode)
 - Call the func sort_data_by_type, give a file and flags result.
 
 3. Function sort_data_by_type:
@@ -18,7 +20,9 @@
 - Close all files.
 
 # For run code use
-python Main.py input_file.txt
+**python Main.py input_file.txt**
 - Can add flags:
 -p Name_file
 -o Path_to_save
+-s ('f' - Full stats, 's' - short stats) To check statistic
+-a Append mode
