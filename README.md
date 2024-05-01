@@ -7,8 +7,8 @@
 - User can use Flags:
 -o (Path the save result)
 -p (Name output files).
--s (To check statistic)
 -a (Append mode)
+-s (To check statistic)
 - Call the func sort_data_by_type, give a file and flags result.
 
 3. Function sort_data_by_type:
@@ -24,5 +24,5 @@
 - Can add flags:
 -p Name_file
 -o Path_to_save
--s ('f' - Full stats, 's' - short stats) To check statistic
 -a Append mode
+-s ('f' - Full stats, 's' - short stats) To check statistic
