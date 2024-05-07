@@ -1,6 +1,7 @@
 # File_sys_python
 1. Function:
 - sort_data_by_type: Read data and check type (Int, float or str) and write in output files.
+>  > Temporarily incorrect information
 
 2. Code:
 - Create parser with help argparse.
@@ -18,6 +19,7 @@
 - If not convert, try convert to float(). If convert, write to Float output file.
 - If not convert, write to String output file.
 - Close all files.
+>  > Temporarily incorrect information
 
 # For run code use
 **python Main.py input_file.txt**
